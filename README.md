@@ -1,7 +1,8 @@
 # Hello👋 
 
-Welcome to my page!<br>
-I am Jongdeug, Aspiring Backend developer from Korea.
+**Welcome to my page!**
+<br>
+**I am Jongdeug, Aspiring Backend developer from Korea.**
 <br>
 <br>
 
@@ -15,5 +16,5 @@ I am Jongdeug, Aspiring Backend developer from Korea.
 const jongdeug = {
   code: [HTML, CSS, Javascript, Typescript, Python, Java],
   tools: [NestJS, Node, Svelte],
-  challenge: "JoinUs 프로젝트 리뉴얼에 도전하고 있습니다."
+  challenge: "현재 저는 JoinUs 프로젝트 리뉴얼에 도전하고 있습니다!"
 }
