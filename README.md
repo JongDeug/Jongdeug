@@ -1,16 +1,19 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-<!--
-**JongDeug/Jongdeug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello👋 
 
-Here are some ideas to get you started:
+Welcome to my page!<br>
+I am Jongdeug, Aspiring Backend developer from Korea.
+<br>
+<br>
 
+- 🌱 I’m currently learning NestJs, Typescript
+- 🔭 I’m currently working on [JoinUs](https://github.com/JongDeug/join-us-front-end)
+<br>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😋 A little more about me...
+
+```javascript
+const jongdeug = {
+  code: [HTML, CSS, Javascript, Typescript, Python, Java],
+  tools: [NestJS, Node, Svelte],
+  challenge: "JoinUs 프로젝트 리뉴얼에 도전하고 있습니다."
+}
