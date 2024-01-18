@@ -7,7 +7,7 @@
 <br>
 
 - 🌱 I’m currently learning NestJs, Typescript
-- 🔭 I’m currently working on [JoinUs](https://github.com/JongDeug/join-us-front-end)
+- 🔭 I’m currently working on [join-us-renewal](https://github.com/JongDeug/join-us-renewal)
 <br>
 
 ### 😋 A little more about me...
