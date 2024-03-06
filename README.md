@@ -17,5 +17,5 @@ const jongdeug = {
   code: [HTML, CSS, Javascript, Typescript, Python, Java],
   tools: [NestJS, Node, Svelte],
   lifeMotto: "Believe you can and you're halfway there",
-  challenge: "현재 저는 JoinUs 프로젝트 리뉴얼에 도전하고 있습니다!"
+  challenge: "현재 저는 알고리즘 공부, 기술 면접, 포트폴리오 작성 활동을 하며 취업 준비 중입니다!"
 }
