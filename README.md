@@ -20,5 +20,6 @@ const jongdeug = {
   lifeMotto: "Believe you can and you're halfway there",
   challenge: "데일리 루틴을 만들어 꾸준히 이행하고 있습니다. 가까운 목표는 취업입니다:)"
 }
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongdeug)](https://github.com/anuraghazra/github-readme-stats)
