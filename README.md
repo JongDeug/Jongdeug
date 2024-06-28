@@ -1,6 +1,8 @@
 # Hello👋 
 
-
+<div align="center">
+  <img src="https://github.com/jongdeug/jongdeug/w.png" />
+</div>
 
 **Welcome to my page!**
 <br>
