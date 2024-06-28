@@ -13,7 +13,7 @@ const jongdeug = {
 }
 ```
 
-## 📞 Contact
+### 📞 Contact
 
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:jongdeug2021@gmail.com">
