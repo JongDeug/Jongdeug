@@ -17,4 +17,5 @@ const jongdeug = {
 
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </div>
