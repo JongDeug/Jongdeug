@@ -1,5 +1,9 @@
 # Hello👋 
 
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 **Welcome to my page!**
 <br>
 **저는 백엔드 개발자가 되기 위해 공부하고 있는 취준생입니다.**
