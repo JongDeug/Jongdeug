@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JongDeug/Jongdeug/blob/main/w.png" />
+  <img src="https://github.com/JongDeug/Jongdeug/blob/main/banner.png" />
 </div>
 
 **Welcome to my page!**
