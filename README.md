@@ -4,6 +4,7 @@
 
 ### 😋 A little more about me...
 
+<div>
 ```javascript
 const jongdeug = {
   code: [HTML, CSS, Javascript, Typescript, Python, Java],
@@ -12,8 +13,7 @@ const jongdeug = {
   challenge: ["blog-board project", "코딩 테스트 준비", "CS 공부", "백엔드 개발자 취업"],
 }
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongdeug&hide=contribs,prs&show_icons=true&theme=테마)
+</div>
 
 
 
