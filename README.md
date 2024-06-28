@@ -16,7 +16,7 @@ const jongdeug = {
 ## 📞 Contact
 
 <div style="display:flex; flex-direction:row;">
-  <a href="mailto:kwonbe99@gmail.com">
+  <a href="mailto:jongdeug2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://open.kakao.com/o/s6hNtzhg">
