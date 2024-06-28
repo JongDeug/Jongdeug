@@ -9,7 +9,7 @@ const jongdeug = {
   code: [HTML, CSS, Javascript, Typescript, Java],
   tools: [NestJS, Node, Express, Svelte],
   lifeMotto: "Believe you can and you're halfway there",
-  challenge: ["blog-board project", "코딩 테스트 준비", "CS 공부", "백엔드 개발자 취업"],
+  challenge: ["blog-backed project", "코딩 테스트 준비", "CS 공부", "백엔드 개발자 취업"],
 }
 ```
 
