@@ -19,7 +19,7 @@ const jongdeug = {
   <a href="mailto:jongdeug2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://open.kakao.com/o/s6hNtzhg">
+<!--   <a href="https://open.kakao.com/o/s6hNtzhg">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-  </a>
+  </a> -->
 </div>
