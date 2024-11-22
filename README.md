@@ -8,7 +8,7 @@
 const jongdeug = {
   code: [HTML, CSS, Javascript, Typescript, Java],
   tools: [NestJS, Node, Express, Svelte],
-  lifeMotto: "Believe you can and you're halfway there",
+  lifeMotto: ["Memento Mori", "Carpe Diem", "Amor Fati"],
   challenge: ["blog-backed project"],
 }
 ```
